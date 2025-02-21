@@ -11,7 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "var(--primary)",
       },
+      fontSize: {
+        "8xl": "190px",
+        "7xl": "120px",
+        "5xl": "140px"
+      }
     },
   },
   plugins: [],
